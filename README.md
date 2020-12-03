@@ -1,6 +1,8 @@
 # フィックスポイント プログラミング試験問題
 log.txt: テストデータ
 
+result.txt: 実行結果
+
 ping_response.py: 解答コード
 
 ## 実行方法
