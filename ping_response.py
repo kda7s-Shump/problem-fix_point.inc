@@ -60,5 +60,5 @@ if __name__ == '__main__':
       if cnt_fail_subnet == N:
         print('subnet is failure.')
         for ad in l_dic:
-          if ad['cnt_failure']:
+          if ad['cnt_fail']:
             print(f'failure of {ad["address"]}：　{str2datetime(date) - ad["updated_time"][-1]}')

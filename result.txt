@@ -1,0 +1,12 @@
+❯ python3 ping_response.py 1 2 3
+10.20.30.1/16 is overload since：2020-10-19 13:32:24
+192.168.1.1/24 is overload since：2020-10-19 13:32:34
+192.168.1.2/24 is overload since：2020-10-19 13:32:35
+10.20.30.1/16 is overload since：2020-10-19 13:32:24
+subnet is failure.
+failure of 10.20.30.1/16：　0:01:00
+10.20.30.1/16 is overload since：2020-10-19 13:32:24
+subnet is failure.
+failure of 10.20.30.1/16：　1 day, 0:01:00
+failure of 10.20.30.1/16：　775 days, 0:20:40
+10.20.30.1/16 is overload since：2022-12-03 13:53:04
